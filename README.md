@@ -16,6 +16,38 @@ Nestapp is a powerful backend application developed using NestJS, a Node.js fram
 
 Welcome to Nestapp, a backend application built with NestJS, the powerful Node.js framework. This tutorial will guide you through creating a REST API, which enables seamless communication between client applications and a database.
 
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+
+# watch mode
+$ npm run start:dev
+
+# production mode
+$ npm run start:prod
+```
+
+## Test
+
+```bash
+# unit tests
+$ npm run test
+
+# e2e tests
+$ npm run test:e2e
+
+# test coverage
+$ npm run test:cov
+```
+
 ## Project Overview
 
 This section provides an overview of how NestJS simplifies backend development and how it fits into the Node.js ecosystem.
