@@ -35,18 +35,6 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 ## Project Overview
 
@@ -56,7 +44,9 @@ This section provides an overview of how NestJS simplifies backend development a
 
 To run the code in a production environment, execute the following command:
 
-## npm start
+```bash
+$ npm start
+```
 
 -----------
 
