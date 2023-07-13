@@ -38,5 +38,3 @@ For any questions, feedback, or suggestions regarding this project, please conta
 
 ---
 
-Please feel free to customize and enhance this README template to fit the specific requirements and features of your project.
-
