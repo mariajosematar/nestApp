@@ -28,13 +28,6 @@ To run the code in a production environment, execute the following command:
 
 -----------
 
-Provide any additional instructions or considerations for running the application in a production setting.
-
-## Contributing
-
-Contributions, bug reports, and feature requests are welcome. 
-If you would like to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
