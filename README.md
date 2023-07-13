@@ -1,6 +1,4 @@
-# Nestapp
-
-## Description
+## Nestapp Description
 
 Nestapp is a powerful backend application developed using NestJS, a Node.js framework. This project serves as a REST API, providing a server application that can send and receive data from client applications and store it in a database.
 
