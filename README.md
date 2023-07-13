@@ -6,48 +6,19 @@ Nestapp is a powerful backend application developed using NestJS, a Node.js fram
 
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
-- [Project Configuration](#project-configuration)
-- [Application Module](#application-module)
-- [Entity](#entity)
-- [Create and List](#create-and-list)
-- [Update and Delete](#update-and-delete)
-- [Validations in NestJS](#validations-in-nestjs)
 - [Running in Production](#running-in-production)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Introduction
 
-Welcome to Nestapp, a backend application built with NestJS, the powerful Node.js framework. This tutorial will guide you through creating a REST API, which enables seamless communication between client applications and a database.
+Welcome to Nestapp, a backend application built with NestJS, the powerful Node.js framework. 
+I'm attempting to start establishing my career and at the same time creating how-to guides to get started in the world of back-end developers. In the case of the following code, it is essentially the creation of a REST API, which allows seamless communication between client applications and a database. of data.
 
 ## Project Overview
 
-In this section, provide an overview of the project, discussing its purpose and goals. Explain how NestJS simplifies backend development and how it fits into the Node.js ecosystem.
+I have worked to develop a piece of code that performs correctly and that in turn is not too complex in its syntax for someone who is just beginning release. NestJS simplifies backend development and how it fits into the Node.js ecosystem.
 
-## Project Configuration
-
-Explain the configuration process for the project. Describe any required dependencies, environment setup, and additional configuration steps.
-
-## Application Module
-
-Discuss the concept of modules in NestJS and how they structure the application. Explain the main modules used in the project and their responsibilities.
-
-## Entity
-
-Explore the concept of entities within the NestJS context. Describe the entities utilized in the project, along with their corresponding database tables or collections.
-
-## Create and List
-
-Explain the process of creating and listing data within the REST API. Detail the endpoints and their functionalities related to these operations.
-
-## Update and Delete
-
-Discuss how data can be updated and deleted through the REST API. Explain the relevant endpoints and their functionalities.
-
-## Validations in NestJS
-
-Describe how NestJS handles input validations and ensures data integrity. Discuss the mechanisms employed in the project to validate incoming data and prevent inconsistencies.
 
 ## Running in Production
 
@@ -55,11 +26,7 @@ To run the code in a production environment, execute the following command:
 
 ### npm start 
 
-Provide any additional instructions or considerations for running the application in a production setting.
-
-## Contributing
-
-Contributions, bug reports, and feature requests are welcome. If you would like to contribute to the project, please follow the guidelines outlined in the CONTRIBUTING.md file.
+---
 
 ## License
 
