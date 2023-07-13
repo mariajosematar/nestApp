@@ -30,7 +30,7 @@ To run the code in a production environment, execute the following command:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to modify and utilize the code within the constraints of this license.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
